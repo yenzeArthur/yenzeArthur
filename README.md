@@ -1,6 +1,6 @@
 - 👋 Hi, I am Kyambadde Mark Arthur.
-- 👀 I’m interested in Embedded Systems and Tiny Machine Learning.
-- 🌱 I’m currently learning Embedded C/C++ and TensorFlow.
+- 👀 I’m interested in Embedded Systems.
+- 🌱 I’m currently learning Embedded C/C++.
 - 💞️ I’m looking to collaborate on any projects that fill my niche.
 - 📫 You can reach out to me through my email: yenze_arthur@hotmail.com.
 
